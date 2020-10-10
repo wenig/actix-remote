@@ -1,14 +1,10 @@
-# [WIP] Actix remote [![Build Status](https://travis-ci.org/actix/actix-remote.svg?branch=master)](https://travis-ci.org/actix/actix-remote) [![codecov](https://codecov.io/gh/actix/actix-remote/branch/master/graph/badge.svg)](https://codecov.io/gh/actix/actix-remote) [![crates.io](http://meritbadge.herokuapp.com/actix-remote)](https://crates.io/crates/actix-remote) 
+# Actix remote [FORK] 
 
 Distributed actors for actix framework.
 
 ## Documentation
 
-* [API Documentation (Development)](http://actix.github.io/actix-remote/actix_remote/)
-* [API Documentation (Releases)](https://docs.rs/actix-remote/)
-* [Chat on gitter](https://gitter.im/actix/actix)
-* Cargo package: [actix-remote](https://crates.io/crates/actix-remote)
-* Minimum supported Rust version: 1.21 or later
+* TODO
 
 
 ## License
@@ -22,6 +18,4 @@ at your option.
 
 ## Code of Conduct
 
-Contribution to the actix-redis crate is organized under the terms of the
-Contributor Covenant, the maintainer of actix-remote, @fafhrd91, promises to
-intervene to uphold that code of conduct.
+* For commit messages, please use [conventionalcommits](https://www.conventionalcommits.org/en/)
